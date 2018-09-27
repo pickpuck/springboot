@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spring-mvc-learning">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/spring-mvc-learning/target/spring-mvc-learning.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
